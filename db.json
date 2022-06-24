@@ -1,5 +1,7 @@
 {
-  "id": 1, 
-  "name": "rAJ" , 
-  "zipcode": "98360"
+  "user":{ 
+     "id": 1, 
+    "name": "rAJ" , 
+    "zipcode": "98360"
+  }
 }
