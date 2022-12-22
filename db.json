@@ -2,6 +2,10 @@
   "user":{ 
      "id": 1, 
     "name": "Mr Raj " , 
-    "zipcode": "98360"
+    "zipcode": "98360",
+    "AddressLine":"test Dr",
+    "City":"CityOfLights",
+    "Governer":"Ray Johnson",
+    "Capital":"Duluth"
   }
 }
